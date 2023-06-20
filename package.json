@@ -1,0 +1,52 @@
+{
+  "name": "dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fluentui/react": "^8.106.7",
+    "@hookform/resolvers": "^2.9.11",
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/icons": "^4.11.3",
+    "@material-ui/pickers": "^3.3.10",
+    "@mui/x-data-grid": "^4.0.0",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "office-ui-fabric-react": "^7.204.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-excel-grid-export": "^0.6.1",
+    "react-google-charts": "^4.0.0",
+    "react-hook-form": "^7.43.6",
+    "react-router-dom": "^6.8.2",
+    "react-scripts": "5.0.1",
+    "react-select": "^5.7.0",
+    "rsuite": "^5.28.2",
+    "web-vitals": "^2.1.4",
+    "yup": "^1.0.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
